@@ -1,0 +1,14 @@
+{
+  "name": "ephone-vercel",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo 'Building…'",
+    "start": "echo 'Starting…'"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "@vercel/node": "^2.15.0",
+    "redis": "^4.6.0",
+    "mysql2": "^3.6.0"
+  }
+}
